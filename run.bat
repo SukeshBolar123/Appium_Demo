@@ -1,0 +1,1 @@
+java -cp bin;lib\testng-6.8.5.jar;lib\* org.testng.TestNG testng.xml
